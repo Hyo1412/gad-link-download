@@ -4,7 +4,7 @@ const files=[
 {name:"Google Chrome",cat:"Software",desc:"Browser Google Chrome versi terbaru.",icon:"APP",url:"https://www.google.com/chrome/"},
 {name:"Mozilla Firefox",cat:"Software",desc:"Browser Mozilla Firefox.",icon:"APP",url:"https://www.mozilla.org/firefox/"},
 {name:"WinRAR",cat:"Tools",desc:"Tools untuk mengelola file arsip.",icon:"ZIP",url:"https://www.win-rar.com/download.html"},
-{name:"Driver Anda",cat:"Driver",desc:"Ganti URL ini dengan link driver Anda.",icon:"DRV",url:"#"}
+{name:"Driver Anda",cat:"Driver",desc:"https://drive.google.com/file/d/1mVat5uqiqSnv2QQ53fvZyVHPKsFhOqkK/view.",icon:"DRV",url:"#"}
 ];
 
 let active="Semua";
